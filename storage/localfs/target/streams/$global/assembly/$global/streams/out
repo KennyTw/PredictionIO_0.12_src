@@ -1,0 +1,25 @@
+[0m[[0mdebug[0m] [0mCalculate mappings...[0m
+[0m[[0minfo[0m] [0mChecking every *.class/*.jar file's SHA-1.[0m
+[0m[[0minfo[0m] [0mMerging files...[0m
+[0m[[0minfo[0m] [0mSHA-1: 420cfdc2201b8009de0b22da764294e47e5239a9[0m
+[0m[[0minfo[0m] [0mPackaging /Users/kennylee/dev/PredictionIO_0.12/assembly/src/universal/lib/spark/pio-data-localfs-assembly-0.12.0-incubating.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/LocalFSModels$$anonfun$delete$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/LocalFSModels$$anonfun$delete$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/LocalFSModels$$anonfun$get$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/LocalFSModels$$anonfun$get$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/LocalFSModels$$anonfun$get$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/LocalFSModels$$anonfun$get$2.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/LocalFSModels$$anonfun$insert$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/LocalFSModels$$anonfun$insert$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/LocalFSModels.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/LocalFSModels.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/StorageClient$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/StorageClient$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/StorageClient.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/StorageClient.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/package$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/package$.class[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/package.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/streams/$global/assemblyOption/$global/streams/assembly/44d609bce68eaec83ca0cbe09f8b41046372b59b_dir/org/apache/predictionio/data/storage/localfs/package.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

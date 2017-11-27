@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="org.apache.predictionio"
+		module="apache-predictionio-data-elasticsearch_2.11"
+		revision="0.12.0-incubating"
+		conf="runtime-internal"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20171105201312"/>
+	<dependencies>
+		<module organisation="org.elasticsearch" name="elasticsearch-hadoop-mr">
+			<revision name="5.5.2" status="release" pubdate="20170817233852" resolver="public" artresolver="public" homepage="http://github.com/elastic/elasticsearch-hadoop" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="9">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="successful" details="" size="1989" time="820" location="/Users/kennylee/.ivy2/cache/org.elasticsearch/elasticsearch-hadoop-mr/ivy-5.5.2.xml" searched="true" original-local-location="/Users/kennylee/.ivy2/cache/org.elasticsearch/elasticsearch-hadoop-mr/ivy-5.5.2.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/elasticsearch/elasticsearch-hadoop-mr/5.5.2/elasticsearch-hadoop-mr-5.5.2.pom"/>
+				<caller organisation="org.apache.predictionio" name="apache-predictionio-data-elasticsearch_2.11" conf="compile, runtime-internal, runtime, optional" rev="5.5.2" rev-constraint-default="5.5.2" rev-constraint-dynamic="5.5.2" callerrev="0.12.0-incubating"/>
+				<artifacts>
+					<artifact name="elasticsearch-hadoop-mr" type="jar" ext="jar" status="successful" details="" size="424197" time="1494" location="/Users/kennylee/.ivy2/cache/org.elasticsearch/elasticsearch-hadoop-mr/jars/elasticsearch-hadoop-mr-5.5.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/elasticsearch/elasticsearch-hadoop-mr/5.5.2/elasticsearch-hadoop-mr-5.5.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.elasticsearch" name="elasticsearch-spark-20_2.11">
+			<revision name="5.5.2" status="release" pubdate="20170818001414" resolver="public" artresolver="public" homepage="http://github.com/elastic/elasticsearch-hadoop" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="8">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="successful" details="" size="2792" time="718" location="/Users/kennylee/.ivy2/cache/org.elasticsearch/elasticsearch-spark-20_2.11/ivy-5.5.2.xml" searched="true" original-local-location="/Users/kennylee/.ivy2/cache/org.elasticsearch/elasticsearch-spark-20_2.11/ivy-5.5.2.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/elasticsearch/elasticsearch-spark-20_2.11/5.5.2/elasticsearch-spark-20_2.11-5.5.2.pom"/>
+				<caller organisation="org.apache.predictionio" name="apache-predictionio-data-elasticsearch_2.11" conf="compile, runtime-internal, runtime, optional" rev="5.5.2" rev-constraint-default="5.5.2" rev-constraint-dynamic="5.5.2" callerrev="0.12.0-incubating"/>
+				<artifacts>
+					<artifact name="elasticsearch-spark-20_2.11" type="jar" ext="jar" status="successful" details="" size="672074" time="1335" location="/Users/kennylee/.ivy2/cache/org.elasticsearch/elasticsearch-spark-20_2.11/jars/elasticsearch-spark-20_2.11-5.5.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/elasticsearch/elasticsearch-spark-20_2.11/5.5.2/elasticsearch-spark-20_2.11-5.5.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.elasticsearch.client" name="rest">
+			<revision name="5.5.2" status="release" pubdate="20170814214517" resolver="public" artresolver="public" homepage="https://github.com/elastic/elasticsearch" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="successful" details="" size="3515" time="821" location="/Users/kennylee/.ivy2/cache/org.elasticsearch.client/rest/ivy-5.5.2.xml" searched="true" original-local-location="/Users/kennylee/.ivy2/cache/org.elasticsearch.client/rest/ivy-5.5.2.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/elasticsearch/client/rest/5.5.2/rest-5.5.2.pom"/>
+				<caller organisation="org.apache.predictionio" name="apache-predictionio-data-elasticsearch_2.11" conf="compile, runtime-internal, runtime, optional" rev="5.5.2" rev-constraint-default="5.5.2" rev-constraint-dynamic="5.5.2" callerrev="0.12.0-incubating"/>
+				<artifacts>
+					<artifact name="rest" type="jar" ext="jar" status="successful" details="" size="35302" time="735" location="/Users/kennylee/.ivy2/cache/org.elasticsearch.client/rest/jars/rest-5.5.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/elasticsearch/client/rest/5.5.2/rest-5.5.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="commons-logging" name="commons-logging">
+			<revision name="1.1.3" status="release" pubdate="20130517040523" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-logging/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="7">
+				<metadata-artifact status="no" details="" size="10109" time="0" location="/Users/kennylee/.ivy2/cache/commons-logging/commons-logging/ivy-1.1.3.xml" searched="false" origin-is-local="false" origin-location="https://jcenter.bintray.com/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom"/>
+				<caller organisation="org.elasticsearch.client" name="rest" conf="default, compile, runtime, master" rev="1.1.3" rev-constraint-default="1.1.3" rev-constraint-dynamic="1.1.3" callerrev="5.5.2"/>
+				<artifacts>
+					<artifact name="commons-logging" type="jar" ext="jar" status="no" details="" size="62050" time="0" location="/Users/kennylee/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.1.3.jar">
+						<origin-location is-local="false" location="https://jcenter.bintray.com/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="commons-codec" name="commons-codec">
+			<revision name="1.10" status="release" pubdate="20141106221535" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://commons.apache.org/proper/commons-codec/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="6">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="10608" time="0" location="/Users/kennylee/.ivy2/cache/commons-codec/commons-codec/ivy-1.10.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom"/>
+				<caller organisation="org.elasticsearch.client" name="rest" conf="default, compile, runtime, master" rev="1.10" rev-constraint-default="1.10" rev-constraint-dynamic="1.10" callerrev="5.5.2"/>
+				<artifacts>
+					<artifact name="commons-codec" type="jar" ext="jar" status="no" details="" size="284184" time="0" location="/Users/kennylee/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.httpcomponents" name="httpasyncclient">
+			<revision name="4.1.2" status="release" pubdate="20160618205203" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://hc.apache.org/httpcomponents-asyncclient" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<license name="Apache License, Version 2.0" url="LICENSE.txt"/>
+				<metadata-artifact status="no" details="" size="9765" time="0" location="/Users/kennylee/.ivy2/cache/org.apache.httpcomponents/httpasyncclient/ivy-4.1.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/httpcomponents/httpasyncclient/4.1.2/httpasyncclient-4.1.2.pom"/>
+				<caller organisation="org.elasticsearch.client" name="rest" conf="default, compile, runtime, master" rev="4.1.2" rev-constraint-default="4.1.2" rev-constraint-dynamic="4.1.2" callerrev="5.5.2"/>
+				<artifacts>
+					<artifact name="httpasyncclient" type="jar" ext="jar" status="no" details="" size="177112" time="0" location="/Users/kennylee/.ivy2/cache/org.apache.httpcomponents/httpasyncclient/jars/httpasyncclient-4.1.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/httpcomponents/httpasyncclient/4.1.2/httpasyncclient-4.1.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.httpcomponents" name="httpcore-nio">
+			<revision name="4.4.5" status="release" pubdate="20160609004051" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://hc.apache.org/httpcomponents-core-ga" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="7781" time="0" location="/Users/kennylee/.ivy2/cache/org.apache.httpcomponents/httpcore-nio/ivy-4.4.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.5/httpcore-nio-4.4.5.pom"/>
+				<caller organisation="org.elasticsearch.client" name="rest" conf="default, compile, runtime, master" rev="4.4.5" rev-constraint-default="4.4.5" rev-constraint-dynamic="4.4.5" callerrev="5.5.2"/>
+				<artifacts>
+					<artifact name="httpcore-nio" type="jar" ext="jar" status="no" details="" size="356201" time="0" location="/Users/kennylee/.ivy2/cache/org.apache.httpcomponents/httpcore-nio/jars/httpcore-nio-4.4.5.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore-nio/4.4.5/httpcore-nio-4.4.5.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.httpcomponents" name="httpcore">
+			<revision name="4.4.5" status="release" pubdate="20160609003939" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://hc.apache.org/httpcomponents-core-ga" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="7705" time="0" location="/Users/kennylee/.ivy2/cache/org.apache.httpcomponents/httpcore/ivy-4.4.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.pom"/>
+				<caller organisation="org.elasticsearch.client" name="rest" conf="default, compile, runtime, master" rev="4.4.5" rev-constraint-default="4.4.5" rev-constraint-dynamic="4.4.5" callerrev="5.5.2"/>
+				<artifacts>
+					<artifact name="httpcore" type="jar" ext="jar" status="no" details="" size="327373" time="0" location="/Users/kennylee/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.4.5.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.httpcomponents" name="httpclient">
+			<revision name="4.5.2" status="release" pubdate="20160222000550" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://hc.apache.org/httpcomponents-client" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="9802" time="0" location="/Users/kennylee/.ivy2/cache/org.apache.httpcomponents/httpclient/ivy-4.5.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.pom"/>
+				<caller organisation="org.elasticsearch.client" name="rest" conf="default, compile, runtime, master" rev="4.5.2" rev-constraint-default="4.5.2" rev-constraint-dynamic="4.5.2" callerrev="5.5.2"/>
+				<artifacts>
+					<artifact name="httpclient" type="jar" ext="jar" status="no" details="" size="736658" time="0" location="/Users/kennylee/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.5.2.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.11.8" status="release" pubdate="20160304232633" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.8/" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="0">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2653" time="0" location="/Users/kennylee/.ivy2/cache/org.scala-lang/scala-library/ivy-2.11.8.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.pom"/>
+				<caller organisation="org.elasticsearch" name="elasticsearch-spark-20_2.11" conf="default, compile, runtime, master" rev="2.11.8" rev-constraint-default="2.11.8" rev-constraint-dynamic="2.11.8" callerrev="5.5.2"/>
+				<caller organisation="org.apache.predictionio" name="apache-predictionio-data-elasticsearch_2.11" conf="compile, runtime-internal, runtime, optional" rev="2.11.8" rev-constraint-default="2.11.8" rev-constraint-dynamic="2.11.8" callerrev="0.12.0-incubating"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5744974" time="0" location="/Users/kennylee/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>

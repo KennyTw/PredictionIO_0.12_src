@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Vendor: com.github.nscala-time
+Implementation-Title: nscala-time
+Implementation-Version: 2.6.0
+Implementation-Vendor-Id: com.github.nscala-time
+Vcs-Release-Tag: releases/2.6.0
+Vcs-Release-Hash: ee51edcbda0f29fa165445a2a4a9d9e671fd4d40
+Specification-Vendor: com.github.nscala-time
+Specification-Title: nscala-time
+Specification-Version: 2.6.0
+

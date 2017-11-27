@@ -1,0 +1,19 @@
+[0m[[0minfo[0m] [0mPackaging /Users/kennylee/dev/PredictionIO_0.12/common/target/scala-2.11/apache-predictionio-common_2.11-0.12.0-incubating-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/common/src/main/resources/application.conf[0m
+[0m[[0mdebug[0m] [0m	META-INF/NOTICE.txt[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/common/src/main/resources/META-INF/NOTICE.txt[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/annotation/Experimental.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/common/src/main/java/org/apache/predictionio/annotation/Experimental.java[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/annotation/DeveloperApi.java[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/common/src/main/java/org/apache/predictionio/annotation/DeveloperApi.java[0m
+[0m[[0mdebug[0m] [0m	META-INF/LICENSE.txt[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/common/src/main/resources/META-INF/LICENSE.txt[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/authentication/KeyAuthentication.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/common/src/main/scala/org/apache/predictionio/authentication/KeyAuthentication.scala[0m
+[0m[[0mdebug[0m] [0m	META-INF[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/common/src/main/resources/META-INF[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/configuration/SSLConfiguration.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/common/src/main/scala/org/apache/predictionio/configuration/SSLConfiguration.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: org.apache.predictionio#apache-predictionio-data-jdbc_2.11;0.12.0-incubating :: 0.12.0-incubating :: release :: Sun Nov 05 20:13:39 CST 2017[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Sun Nov 05 20:13:39 CST 2017 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /Users/kennylee/dev/PredictionIO_0.12/storage/jdbc/target/scala-2.11/ivy-0.12.0-incubating.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (6ms)[0m

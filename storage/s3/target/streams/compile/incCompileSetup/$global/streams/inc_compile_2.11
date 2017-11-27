@@ -1,0 +1,324 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes
+compile options:
+5 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -feature
+3 -> -P:genjavadoc:out=/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/java
+4 -> -Xplugin:/Users/kennylee/.ivy2/cache/com.typesafe.genjavadoc/genjavadoc-plugin_2.11.8/jars/genjavadoc-plugin_2.11.8-0.10.jar
+javac options:
+6 items
+0 -> -source
+1 -> 1.7
+2 -> -target
+3 -> 1.7
+4 -> -Xlint:deprecation
+5 -> -Xlint:unchecked
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$delete$1.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$doAction$1.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$get$1.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$insert$1.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$deleteModel$1$1.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$deleteModel$1$2.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$1$1.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$1$2.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$2$1.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$2$2.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/StorageClient.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/package$.class
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/package.class
+binary dependencies:
+13 items
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/jars/aws-java-sdk-s3-1.11.132.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/.ivy2/cache/com.google.guava/guava/bundles/guava-14.0.1.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/.ivy2/cache/org.clapper/grizzled-slf4j_2.11/jars/grizzled-slf4j_2.11-1.0.2.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> /Users/kennylee/.ivy2/local/org.apache.predictionio/apache-predictionio-data_2.11/0.12.0-incubating/jars/apache-predictionio-data_2.11.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> /Users/kennylee/.ivy2/cache/com.amazonaws/aws-java-sdk-core/jars/aws-java-sdk-core-1.11.132.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> /Users/kennylee/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/jars/aws-java-sdk-s3-1.11.132.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> /Users/kennylee/.ivy2/cache/org.clapper/grizzled-slf4j_2.11/jars/grizzled-slf4j_2.11-1.0.2.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> /Users/kennylee/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> /Users/kennylee/.ivy2/local/org.apache.predictionio/apache-predictionio-data_2.11/0.12.0-incubating/jars/apache-predictionio-data_2.11.jar
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$delete$1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$doAction$1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$get$1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$insert$1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$deleteModel$1$1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$deleteModel$1$2
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$1$1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$1$2
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$2$1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org.apache.predictionio.data.storage.s3.S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$2$2
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> org.apache.predictionio.data.storage.s3.StorageClient
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> org.apache.predictionio.data.storage.s3.package
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> org.apache.predictionio.data.storage.s3.package$
+used names:
+168 items
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> <byname>
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> <init>
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> <repeated>
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> ==
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> A
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> AmazonS3
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Any
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Array
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Boolean
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Byte
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> ByteArrayInputStream
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> ByteStreams
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> DeleteObjectRequest
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Function2
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> GetObjectRequest
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> InputStream
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Int
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Logging
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Long
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Map
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> MatchError
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Model
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Models
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> None
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Nothing
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Object
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> ObjectMetadata
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Option
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Predef
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> PutObjectRequest
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> PutObjectResult
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> S3Models
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> S3Object
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> S3ObjectInputStream
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Some
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> StorageClientConfig
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> String
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> StringContext
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> T0
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Throwable
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> Unit
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> _root_
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> action
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> amazonaws
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> apache
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> apply
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> asInstanceOf
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> basePath
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> bucketName
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> close
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> com
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> common
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> config
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> data
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> deleteModel
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> deleteObject
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> doAction
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> e
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> error
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> get
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> getModel
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> getObject
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> getObjectContent
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> google
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> grizzled
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> i
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> id
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> io
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> is
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> isInstanceOf
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> java
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> key
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> length
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> metadata
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> model
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> models
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> org
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> package
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> predictionio
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> prefix
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> properties
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> putObject
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> req
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> s
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> s3
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> s3Client
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> s3object
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> scala
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> services
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> setContentLength
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> slf4j
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> storage
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> toByteArray
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> toLong
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> x
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> <init>
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> ==
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> AWSCredentialsProvider
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> AmazonS3
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> AmazonS3ClientBuilder
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Any
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> AnyRef
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> AwsClientBuilder
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> BaseStorageClient
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Boolean
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> EndpointConfiguration
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Logging
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Map
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> None
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Nothing
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Object
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Option
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Predef
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> ProfileCredentialsProvider
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Some
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> StorageClient
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> StorageClientConfig
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> String
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> T0
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> T1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> T2
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> Tuple2
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> _1
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> _2
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> amazonaws
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> apache
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> asInstanceOf
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> auth
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> build
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> builder
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> client
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> com
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> config
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> data
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> disableChunkedEncoding
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> endpoint
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> equalsIgnoreCase
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> get
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> grizzled
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> isInstanceOf
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> ne
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> org
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> predictionio
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> prefix
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> profile
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> properties
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> region
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> s3
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> scala
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> services
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> slf4j
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> standard
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> storage
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> withCredentials
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> withEndpointConfiguration
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> withRegion
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> x
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> <init>
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> AnyRef
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> Object
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> apache
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> data
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> org
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> package
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> predictionio
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> s3
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> scala
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> storage
+product stamps:
+14 items
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$delete$1.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$doAction$1.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$get$1.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$insert$1.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$deleteModel$1$1.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$deleteModel$1$2.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$1$1.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$1$2.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$2$1.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models$$anonfun$org$apache$predictionio$data$storage$s3$S3Models$$getModel$2$2.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/S3Models.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/StorageClient.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/package$.class -> lastModified(1509884030000)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/classes/org/apache/predictionio/data/storage/s3/package.class -> lastModified(1509884030000)
+source stamps:
+3 items
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> hash(0568ed40f073455cb12d140e6290ee616af35b13)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> hash(ef7deb3747ee1d4237b38eed8139b2639cdb6917)
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> hash(4a5481b83ad558215859017e5cc13261d0347e1a)
+binary stamps:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459485740000)
+/Users/kennylee/.ivy2/cache/com.amazonaws/aws-java-sdk-core/jars/aws-java-sdk-core-1.11.132.jar -> lastModified(1495153330000)
+/Users/kennylee/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/jars/aws-java-sdk-s3-1.11.132.jar -> lastModified(1495153316000)
+/Users/kennylee/.ivy2/cache/com.google.guava/guava/bundles/guava-14.0.1.jar -> lastModified(1363305439000)
+/Users/kennylee/.ivy2/cache/org.clapper/grizzled-slf4j_2.11/jars/grizzled-slf4j_2.11-1.0.2.jar -> lastModified(1398608830000)
+/Users/kennylee/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+/Users/kennylee/.ivy2/local/org.apache.predictionio/apache-predictionio-data_2.11/0.12.0-incubating/jars/apache-predictionio-data_2.11.jar -> lastModified(1509883857000)
+class names:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kennylee/.ivy2/cache/com.amazonaws/aws-java-sdk-core/jars/aws-java-sdk-core-1.11.132.jar -> com.amazonaws.client.builder.AwsSyncClientBuilder
+/Users/kennylee/.ivy2/cache/com.amazonaws/aws-java-sdk-s3/jars/aws-java-sdk-s3-1.11.132.jar -> com.amazonaws.services.s3.AmazonS3Builder
+/Users/kennylee/.ivy2/cache/com.google.guava/guava/bundles/guava-14.0.1.jar -> com.google.common.io.ByteStreams
+/Users/kennylee/.ivy2/cache/org.clapper/grizzled-slf4j_2.11/jars/grizzled-slf4j_2.11-1.0.2.jar -> grizzled.slf4j.Logging
+/Users/kennylee/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Tuple2
+/Users/kennylee/.ivy2/local/org.apache.predictionio/apache-predictionio-data_2.11/0.12.0-incubating/jars/apache-predictionio-data_2.11.jar -> org.apache.predictionio.data.storage.BaseStorageClient
+internal apis:
+3 items
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqC69NwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAmc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw46KG6HQABm5vdGlmeXNxAH4ADHznVnZ0AA1pc0luZm9FbmFibGVkc3EAfgAMnQHEMXQABHdhaXRzcQB+AAz/I/XidAANJGFzSW5zdGFuY2VPZnNxAH4ADMPs1ol0AAV0cmFjZXNxAH4ADNyUhJV0AAR3YXJuc3EAfgAMctulYHQABmxvZ2dlcnNxAH4ADDY81hV0AAZpbnNlcnRzcQB+AAzmwQfgdAAGZXF1YWxzc3EAfgAMnz1r/nQADmlzRXJyb3JFbmFibGVkc3EAfgAMQlRi73QADGFzSW5zdGFuY2VPZnNxAH4ADFCHPAN0AAhkb0FjdGlvbnNxAH4ADFs+JVt0AAxzeW5jaHJvbml6ZWRzcQB+AAwui5MUdAANJGlzSW5zdGFuY2VPZnNxAH4ADIw+E4J0AA5pc1RyYWNlRW5hYmxlZHNxAH4ADNYsYFJ0AARpbmZvc3EAfgAMwYHgj3QACW5vdGlmeUFsbHNxAH4ADNImv5l0AA1pc1dhcm5FbmFibGVkc3EAfgAM1XvYZXQABWRlYnVnc3EAfgAMzPdfbnQADGlzSW5zdGFuY2VPZnNxAH4ADG1NuhF0AAY8aW5pdD5zcQB+AAw0uxC3dAAKbG9nZ2VyTmFtZXNxAH4ADIASuS10AAVlcnJvcnNxAH4ADAyco7B0AAI9PXNxAH4ADHxHssF0AAVjbG9uZXNxAH4ADGepAbV0AAZkZWxldGVzcQB+AAzfbdqZdAAGJGluaXQkc3EAfgAMrOsGFnQACFMzTW9kZWxzc3EAfgAM+7fD3HQACHRvU3RyaW5nc3EAfgAMHqSJ4XQAAiE9c3EAfgAML/RT2nQAA2dldHNxAH4ADEE1SFF0AAhnZXRDbGFzc3NxAH4ADPQON+d0AAJuZXNxAH4ADCajP7N0AAJlcXNxAH4ADIADkHF0AAIjI3NxAH4ADE+SXsF0AAhmaW5hbGl6ZXNxAH4ADK+odRZ0AAhoYXNoQ29kZXNxAH4ADHcIlGt0AA5pc0RlYnVnRW5hYmxlZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADBvcmcuYXBhY2hlLnByZWRpY3Rpb25pby5kYXRhLnN0b3JhZ2UuczMuUzNNb2RlbHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Ae3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIBzcQB+AHt1cQB+AF4AAAAAc3EAfgB7dXEAfgBeAAAAAHNxAH4Ae3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Af3QAB0xvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQACGdyaXp6bGVkc3EAfgCYdAAFc2xmNGpzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AmXNxAH4AjHQABk1vZGVsc3NxAH4AkHNxAH4Ak3VxAH4AlgAAAAZzcQB+AJh0AANvcmdzcQB+AJh0AAZhcGFjaGVzcQB+AJh0AAxwcmVkaWN0aW9uaW9zcQB+AJh0AARkYXRhc3EAfgCYdAAHc3RvcmFnZXEAfgCfc3EAfgCMdAAGT2JqZWN0c3EAfgCQc3EAfgCTdXEAfgCWAAAAA3NxAH4AmHQABGphdmFzcQB+AJh0AARsYW5ncQB+AJ9zcQB+AIx0AANBbnlzcQB+AJBzcQB+AJN1cQB+AJYAAAACc3EAfgCYdAAFc2NhbGFxAH4An3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAGc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAHG9yZy5hcGFjaGUucHJlZGljdGlvbmlvLmRhdGFzcQB+AMF0ACRvcmcuYXBhY2hlLnByZWRpY3Rpb25pby5kYXRhLnN0b3JhZ2VzcQB+AMF0ACdvcmcuYXBhY2hlLnByZWRpY3Rpb25pby5kYXRhLnN0b3JhZ2UuczNzcQB+AMF0ABdvcmcuYXBhY2hlLnByZWRpY3Rpb25pb3NxAH4AwXQACm9yZy5hcGFjaGVzcQB+AMF0AANvcmdzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV+MGelsdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9rZW5ueWxlZS9kZXYvUHJlZGljdGlvbklPXzAuMTIvc3RvcmFnZS9zMy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUBWjtQPBzRVyxLRQOYpDuYWrzWxM=
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6BwBPQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3GAl13QABm5vdGlmeXNxAH4ADEi7Th50AA1pc0luZm9FbmFibGVkc3EAfgAMTx/543QABHdhaXRzcQB+AAzlmJZ8dAANJGFzSW5zdGFuY2VPZnNxAH4ADAItQ9l0AAV0cmFjZXNxAH4ADDUjfFp0AAR3YXJuc3EAfgAMyysW63QABmxvZ2dlcnNxAH4ADOZ1GDJ0AAZlcXVhbHNzcQB+AAyt0KsjdAAOaXNFcnJvckVuYWJsZWRzcQB+AAwJQlpmdAAGcHJlZml4c3EAfgAMj2BA/XQADGFzSW5zdGFuY2VPZnNxAH4ADBdcE9J0AAxzeW5jaHJvbml6ZWRzcQB+AAy6i0UAdAANJGlzSW5zdGFuY2VPZnNxAH4ADNjKvIZ0AAZjb25maWdzcQB+AAxoTMjhdAAOaXNUcmFjZUVuYWJsZWRzcQB+AAxMtiyGdAANU3RvcmFnZUNsaWVudHNxAH4ADF4yh6d0AARpbmZvc3EAfgAMlfyAQXQACW5vdGlmeUFsbHNxAH4ADPgpVjp0AA1pc1dhcm5FbmFibGVkc3EAfgAMOENugHQABWRlYnVnc3EAfgAMHm2QN3QADGlzSW5zdGFuY2VPZnNxAH4ADHZB8RF0AAY8aW5pdD5zcQB+AAyaRUsJdAAKbG9nZ2VyTmFtZXNxAH4ADLCpcp10AAVlcnJvcnNxAH4ADOJEXdx0AAI9PXNxAH4ADLvMPWh0AAVjbG9uZXNxAH4ADKfZygh0AAZjbGllbnRzcQB+AAxrkvxHdAAGJGluaXQkc3EAfgAMZTprMHQACHRvU3RyaW5nc3EAfgAM4iYS6HQAAiE9c3EAfgAMNS8+93QACGdldENsYXNzc3EAfgAMIG6KEXQAAm5lc3EAfgAMoI4FgnQAAmVxc3EAfgAMl9TgBHQAAiMjc3EAfgAMyGsyTnQACGZpbmFsaXplc3EAfgAMbhKU0XQACGhhc2hDb2Rlc3EAfgAMP6CxOXQADmlzRGVidWdFbmFibGVkc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQANW9yZy5hcGFjaGUucHJlZGljdGlvbmlvLmRhdGEuc3RvcmFnZS5zMy5TdG9yYWdlQ2xpZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgB+c3EAfgB5dXEAfgBcAAAAAHNxAH4AeXVxAH4AXAAAAABzcQB+AHl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH10AAdMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB9c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAhncml6emxlZHNxAH4AlnQABXNsZjRqc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJdzcQB+AIp0ABFCYXNlU3RvcmFnZUNsaWVudHNxAH4AjnNxAH4AkXVxAH4AlAAAAAZzcQB+AJZ0AANvcmdzcQB+AJZ0AAZhcGFjaGVzcQB+AJZ0AAxwcmVkaWN0aW9uaW9zcQB+AJZ0AARkYXRhc3EAfgCWdAAHc3RvcmFnZXEAfgCdc3EAfgCKdAAGT2JqZWN0c3EAfgCOc3EAfgCRdXEAfgCUAAAAA3NxAH4AlnQABGphdmFzcQB+AJZ0AARsYW5ncQB+AJ1zcQB+AIp0AANBbnlzcQB+AI5zcQB+AJF1cQB+AJQAAAACc3EAfgCWdAAFc2NhbGFxAH4AnXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAGc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAHG9yZy5hcGFjaGUucHJlZGljdGlvbmlvLmRhdGFzcQB+AL90ACRvcmcuYXBhY2hlLnByZWRpY3Rpb25pby5kYXRhLnN0b3JhZ2VzcQB+AL90ACdvcmcuYXBhY2hlLnByZWRpY3Rpb25pby5kYXRhLnN0b3JhZ2UuczNzcQB+AL90ABdvcmcuYXBhY2hlLnByZWRpY3Rpb25pb3NxAH4Av3QACm9yZy5hcGFjaGVzcQB+AL90AANvcmdzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV+MGelsdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9rZW5ueWxlZS9kZXYvUHJlZGljdGlvbklPXzAuMTIvc3RvcmFnZS9zMy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU733rN0fuHUI3s47tgTmyY5zbaRc=
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkAkvHgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAUc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqYTEEXQABm5vdGlmeXNxAH4ADBDE5eh0AAdwYWNrYWdlc3EAfgAMOXFAjnQABHdhaXRzcQB+AAymOq5VdAANJGFzSW5zdGFuY2VPZnNxAH4ADH0g9zR0AAZlcXVhbHNzcQB+AAwzE/tPdAAMYXNJbnN0YW5jZU9mc3EAfgAM2Xmr2HQADHN5bmNocm9uaXplZHNxAH4ADGl9Q5h0AA0kaXNJbnN0YW5jZU9mc3EAfgAMtRKWlHQACW5vdGlmeUFsbHNxAH4ADCc0PUV0AAxpc0luc3RhbmNlT2ZzcQB+AAwAEv6qdAACPT1zcQB+AAxaUvptdAAFY2xvbmVzcQB+AAw+uShmdAAIdG9TdHJpbmdzcQB+AAwMcZcAdAACIT1zcQB+AAzx5L1XdAAIZ2V0Q2xhc3NzcQB+AAw0kzzydAACbmVzcQB+AAwziqykdAACZXFzcQB+AAzPyt4YdAACIyNzcQB+AAwVgTajdAAIZmluYWxpemVzcQB+AAzt+QxzdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgA/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAvb3JnLmFwYWNoZS5wcmVkaWN0aW9uaW8uZGF0YS5zdG9yYWdlLnMzLnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFdzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AP0wACWluaGVyaXRlZHEAfgA/TAAHcGFyZW50c3EAfgA/eHEAfgBcc3EAfgBXdXEAfgA6AAAAAHNxAH4AV3VxAH4AOgAAAABzcQB+AFd1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFtzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHVzcQB+AGh0AANBbnlzcQB+AGxzcQB+AG91cQB+AHIAAAACc3EAfgB0dAAFc2NhbGFxAH4Ae3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAGc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAHG9yZy5hcGFjaGUucHJlZGljdGlvbmlvLmRhdGFzcQB+AIV0ACRvcmcuYXBhY2hlLnByZWRpY3Rpb25pby5kYXRhLnN0b3JhZ2VzcQB+AIV0ACdvcmcuYXBhY2hlLnByZWRpY3Rpb25pby5kYXRhLnN0b3JhZ2UuczNzcQB+AIV0ABdvcmcuYXBhY2hlLnByZWRpY3Rpb25pb3NxAH4AhXQACm9yZy5hcGFjaGVzcQB+AIV0AANvcmdzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAV+MGelsdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9rZW5ueWxlZS9kZXYvUHJlZGljdGlvbklPXzAuMTIvc3RvcmFnZS9zMy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUSlSBuDrVWCFYWQF+XMEyYdA0fho=
+external apis:
+0 items
+source infos:
+3 items
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala -> 
+AAAAAAAAAAA=
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala -> 
+AAAAAAAAAAA=
+/Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX4wZ6Wx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9rZW5ueWxlZS9kZXYvUHJlZGljdGlvbklPXzAuMTIvc3RvcmFnZS9zMy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

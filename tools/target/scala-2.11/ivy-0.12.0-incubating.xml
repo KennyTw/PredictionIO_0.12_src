@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="org.apache.predictionio" module="apache-predictionio-tools_2.11" revision="0.12.0-incubating" status="release" publication="20171105201030">
+		<description>
+		apache-predictionio-tools
+		</description>
+	</info>
+	<configurations>
+		<conf name="compile" visibility="public" description=""/>
+		<conf name="runtime" visibility="public" description="" extends="compile"/>
+		<conf name="test" visibility="public" description="" extends="runtime"/>
+		<conf name="provided" visibility="public" description=""/>
+		<conf name="optional" visibility="public" description=""/>
+		
+		
+		
+		
+		<conf name="sources" visibility="public" description=""/>
+		<conf name="docs" visibility="public" description=""/>
+		<conf name="pom" visibility="public" description=""/>
+		
+	</configurations>
+	<publications>
+	</publications>
+	<dependencies>
+		
+		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="compile->default(compile)"/>
+		<dependency org="org.apache.predictionio" name="apache-predictionio-core_2.11" rev="0.12.0-incubating" conf="compile->default(compile)"/>
+		<dependency org="org.apache.predictionio" name="apache-predictionio-data_2.11" rev="0.12.0-incubating" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="twirl-api_2.11" rev="1.1.1" conf="compile->default(compile)"/>
+		
+		<dependency org="org.scoverage" name="scalac-scoverage-runtime_2.11" rev="1.1.1" transitive="false" conf="provided->default(compile)"/>
+		<dependency org="org.scoverage" name="scalac-scoverage-plugin_2.11" rev="1.1.1" transitive="false" conf="provided->default(compile)"/>
+		<dependency org="org.postgresql" name="postgresql" rev="9.4-1204-jdbc41" conf="test->default(compile)"/>
+		<dependency org="org.scalikejdbc" name="scalikejdbc_2.11" rev="2.3.5" conf="test->default(compile)"/>
+		<dependency org="com.github.zafarkhaja" name="java-semver" rev="0.9.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-sql_2.11" rev="2.1.1" conf="provided->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-slf4j_2.11" rev="2.4.17" conf="compile->default(compile)"/>
+		<dependency org="io.spray" name="spray-testkit_2.11" rev="1.3.3" conf="test->default(compile)"/>
+		<dependency org="org.specs2" name="specs2_2.11" rev="2.3.13" conf="test->default(compile)"/>
+	</dependencies>
+</ivy-module>

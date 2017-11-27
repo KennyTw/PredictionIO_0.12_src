@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1431111158191
+Bundle-ManifestVersion: 2
+Bundle-Name: com.twitter.bijection.core
+Bundle-SymbolicName: com.twitter.bijection.core
+Bundle-Version: 0.8.0
+Created-By: 1.7.0_40 (Oracle Corporation)
+Export-Package: com.twitter.bijection;version="0.8.0";uses:="scala,scala
+ .collection,scala.collection.generic,scala.collection.immutable,scala.c
+ ollection.mutable,scala.math,scala.reflect,scala.runtime,scala.util",co
+ m.twitter.bijection.codec;version="0.8.0"
+Import-Package: scala;version="[2.11,2.12)",scala.collection;version="[2
+ .11,2.12)",scala.collection.convert;version="[2.11,2.12)",scala.collect
+ ion.generic;version="[2.11,2.12)",scala.collection.immutable;version="[
+ 2.11,2.12)",scala.collection.mutable;version="[2.11,2.12)",scala.math;v
+ ersion="[2.11,2.12)",scala.reflect;version="[2.11,2.12)",scala.runtime;
+ version="[2.11,2.12)",scala.util;version="[2.11,2.12)",scala.util.contr
+ ol;version="[2.11,2.12)"
+Tool: Bnd-2.1.0.20130426-122213

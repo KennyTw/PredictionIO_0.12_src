@@ -1,0 +1,130 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kennylee/dev/PredictionIO_0.12/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> /Users/kennylee/dev/PredictionIO_0.12/project/target/scala-2.10/sbt-0.13/classes/PIOBuild$.class
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> /Users/kennylee/dev/PredictionIO_0.12/project/target/scala-2.10/sbt-0.13/classes/PIOBuild.class
+binary dependencies:
+4 items
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> /Users/kennylee/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.15.jar
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> /Users/kennylee/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.15.jar
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> /Users/kennylee/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> PIOBuild
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> PIOBuild$
+used names:
+45 items
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> <init>
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> Any
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> AnyRef
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> AnyValManifest
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> Array
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> ArrayOps
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> Char
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> Int
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> ManifestFactory
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> NodeSeq
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> Nothing
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> Object
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> PIOBuild
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> Predef
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> SettingKey
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> String
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> StringOps
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> T
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> TaskKey
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> Unit
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> akkaVersion
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> apply
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> augmentString
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> childrenPomExtra
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> classType
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> elasticsearchSparkArtifact
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> elasticsearchVersion
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> hadoopVersion
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> json4sVersion
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> mkString
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> package
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> printBuildInfo
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> refArrayOps
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> reflect
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> sbt
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> scala
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> settingKey
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> sparkBinaryVersion
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> sparkVersion
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> split
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> take
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> taskKey
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> toInt
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> versionString
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> xml
+product stamps:
+2 items
+/Users/kennylee/dev/PredictionIO_0.12/project/target/scala-2.10/sbt-0.13/classes/PIOBuild$.class -> lastModified(1509883576000)
+/Users/kennylee/dev/PredictionIO_0.12/project/target/scala-2.10/sbt-0.13/classes/PIOBuild.class -> lastModified(1509883576000)
+source stamps:
+1 items
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> hash(967b1ba103f56ca0bb9a56cbe3fb8d0e518dd3ba)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459485740000)
+/Users/kennylee/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.15.jar -> lastModified(1491768572000)
+/Users/kennylee/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.15.jar -> lastModified(1491768623000)
+/Users/kennylee/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kennylee/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.15.jar -> sbt.TaskKey$
+/Users/kennylee/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.15.jar -> sbt.package$
+/Users/kennylee/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.Array
+internal apis:
+1 items
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwJAORsAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9wl/Q3QABm5vdGlmeXNxAH4ADL3Wijp0ABplbGFzdGljc2VhcmNoU3BhcmtBcnRpZmFjdHNxAH4ADCwek0J0AAR3YWl0c3EAfgAMR/EzsnQADSRhc0luc3RhbmNlT2ZzcQB+AAyTYM9QdAASc3BhcmtCaW5hcnlWZXJzaW9uc3EAfgAMbbeIHnQABmVxdWFsc3NxAH4ADPGSP9d0AAxtYWpvclZlcnNpb25zcQB+AAx++weKdAAMYXNJbnN0YW5jZU9mc3EAfgAMpKe81nQADWJpbmFyeVZlcnNpb25zcQB+AAyT+UHWdAAMc3luY2hyb25pemVkc3EAfgAMmbrcUHQADSRpc0luc3RhbmNlT2ZzcQB+AAzIXjHmdAAMc3BhcmtWZXJzaW9uc3EAfgAMHOzWCXQADnByaW50QnVpbGRJbmZvc3EAfgAM0400qnQACFBJT0J1aWxkc3EAfgAMBCgr0HQACW5vdGlmeUFsbHNxAH4ADEjUtX10AAxpc0luc3RhbmNlT2ZzcQB+AAxtA4otdAALYWtrYVZlcnNpb25zcQB+AAyH778sdAACPT1zcQB+AAxkaVlZdAAFY2xvbmVzcQB+AAya1CwTdAAMbWlub3JWZXJzaW9uc3EAfgAMq+8oMHQADWhhZG9vcFZlcnNpb25zcQB+AAwjqTwcdAAIdG9TdHJpbmdzcQB+AAzmPDVZdAACIT1zcQB+AAz3hu48dAAIZ2V0Q2xhc3NzcQB+AAzXwctEdAACbmVzcQB+AAyysGA8dAANanNvbjRzVmVyc2lvbnNxAH4ADFdJ27J0ABRlbGFzdGljc2VhcmNoVmVyc2lvbnNxAH4ADJo5u9V0ABBjaGlsZHJlblBvbUV4dHJhc3EAfgAMfeEnPXQAAmVxc3EAfgAMv6ioNHQAAiMjc3EAfgAM0DFV63QACGZpbmFsaXplc3EAfgAM9zimPXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgApdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBuc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFdMAAlpbmhlcml0ZWRxAH4AV0wAB3BhcmVudHNxAH4AV3hxAH4Ac3NxAH4AbnVxAH4AUgAAAABzcQB+AG51cQB+AFIAAAAAc3EAfgBudXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBydAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgByc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCLdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCMc3EAfgB/dAADQW55c3EAfgCDc3EAfgCGdXEAfgCJAAAAAnNxAH4Ai3QABXNjYWxhcQB+AJJ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX4wS+rd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABQL1VzZXJzL2tlbm55bGVlL2Rldi9QcmVkaWN0aW9uSU9fMC4xMi9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSWexuhA/VsoLuaVsvj+40OUY3Tug==
+external apis:
+0 items
+source infos:
+1 items
+/Users/kennylee/dev/PredictionIO_0.12/project/PIOBuild.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABX4wS+rd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUC9Vc2Vycy9rZW5ueWxlZS9kZXYvUHJlZGljdGlvbklPXzAuMTIvcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABLw==

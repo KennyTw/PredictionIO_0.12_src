@@ -1,0 +1,2 @@
+[0m[[33mwarn[0m] [0mSkipped generating '<exclusion/>' for org.apache.spark#*. Dependency exclusion should have both 'org' and 'module' to comply with Maven POM's schema.[0m
+[0m[[0minfo[0m] [0mWrote /Users/kennylee/dev/PredictionIO_0.12/storage/elasticsearch/target/scala-2.11/apache-predictionio-data-elasticsearch_2.11-0.12.0-incubating.pom[0m

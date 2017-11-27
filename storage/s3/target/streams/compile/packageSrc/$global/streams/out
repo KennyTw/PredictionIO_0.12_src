@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /Users/kennylee/dev/PredictionIO_0.12/storage/s3/target/scala-2.11/apache-predictionio-data-s3_2.11-0.12.0-incubating-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/s3/S3Models.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/S3Models.scala[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/s3/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/package.scala[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/s3/StorageClient.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/s3/src/main/scala/org/apache/predictionio/data/storage/s3/StorageClient.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

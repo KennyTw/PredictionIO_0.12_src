@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /Users/kennylee/dev/PredictionIO_0.12/e2/target/scala-2.11/apache-predictionio-e2_2.11-0.12.0-incubating-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/e2/engine/CategoricalNaiveBayes.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/scala/org/apache/predictionio/e2/engine/CategoricalNaiveBayes.scala[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/scala/org/apache/predictionio/package.scala[0m
+[0m[[0mdebug[0m] [0m	META-INF[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/resources/META-INF[0m
+[0m[[0mdebug[0m] [0m	META-INF/LICENSE.txt[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/resources/META-INF/LICENSE.txt[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/e2/engine/MarkovChain.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/scala/org/apache/predictionio/e2/engine/MarkovChain.scala[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/e2/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/scala/org/apache/predictionio/e2/package.scala[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/e2/evaluation/CrossValidation.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/scala/org/apache/predictionio/e2/evaluation/CrossValidation.scala[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/e2/engine/BinaryVectorizer.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/scala/org/apache/predictionio/e2/engine/BinaryVectorizer.scala[0m
+[0m[[0mdebug[0m] [0m	META-INF/NOTICE.txt[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/e2/src/main/resources/META-INF/NOTICE.txt[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

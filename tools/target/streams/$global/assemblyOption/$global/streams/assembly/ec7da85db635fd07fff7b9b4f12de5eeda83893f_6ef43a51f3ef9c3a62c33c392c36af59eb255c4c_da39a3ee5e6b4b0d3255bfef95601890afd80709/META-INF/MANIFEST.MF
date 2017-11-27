@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1444084613852
+Build-Jdk: 1.8.0_45
+Built-By: magro
+Bundle-Description: Additional kryo (http://kryo.googlecode.com) seriali
+ zers for standard jdk types (e.g. currency, jdk proxies) and some for e
+ xternal libs (e.g. joda time, cglib proxies, wicket).
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Name: kryo serializers
+Bundle-SymbolicName: de.javakaffee.kryo-serializers
+Bundle-Version: 0.37.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: de.javakaffee.kryoserializers.jodatime;uses:="com.esoter
+ icsoftware.kryo,com.esotericsoftware.kryo.io,org.joda.time";version="0.
+ 37.0",de.javakaffee.kryoserializers;uses:="com.esotericsoftware.kryo,co
+ m.esotericsoftware.kryo.factories,com.esotericsoftware.kryo.io,com.esot
+ ericsoftware.kryo.serializers";version="0.37.0",de.javakaffee.kryoseria
+ lizers.protobuf;uses:="com.esotericsoftware.kryo,com.esotericsoftware.k
+ ryo.io,com.google.protobuf";version="0.37.0",de.javakaffee.kryoserializ
+ ers.cglib;uses:="com.esotericsoftware.kryo,com.esotericsoftware.kryo.io
+ ";version="0.37.0",de.javakaffee.kryoserializers.guava;uses:="com.esote
+ ricsoftware.kryo,com.esotericsoftware.kryo.io,com.google.common.collect
+ ";version="0.37.0",de.javakaffee.kryoserializers.wicket;uses:="com.esot
+ ericsoftware.kryo,com.esotericsoftware.kryo.io,org.apache.wicket.util.c
+ ollections";version="0.37.0"
+Import-Package: com.esotericsoftware.kryo;version="[3.0.3,4.0)",com.esot
+ ericsoftware.kryo.factories;version="[3.0.3,4.0)",com.esotericsoftware.
+ kryo.io;version="[3.0.3,4.0)",com.esotericsoftware.kryo.serializers;ver
+ sion="[3.0.3,4.0)",com.esotericsoftware.minlog;version="[1.2,2.0)",sun.
+ reflect;resolution:=optional,com.google.common.collect;version="[17.0,1
+ 8)";resolution:=optional,com.google.protobuf;version="[2.6,3)",net.sf.c
+ glib.proxy;resolution:=optional,org.apache.wicket.util.collections;vers
+ ion="[1.4,2)";resolution:=optional,org.joda.time;version="[1.6,2)";reso
+ lution:=optional,org.joda.time.chrono;version="[1.6,2)";resolution:=opt
+ ional
+Tool: Bnd-2.1.0.20130426-122213

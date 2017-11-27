@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="org.apache.predictionio" module="apache-predictionio-core_2.11" revision="0.12.0-incubating" status="release" publication="20171105201015">
+		<description>
+		apache-predictionio-core
+		</description>
+	</info>
+	<configurations>
+		<conf name="compile" visibility="public" description=""/>
+		<conf name="runtime" visibility="public" description="" extends="compile"/>
+		<conf name="test" visibility="public" description="" extends="runtime"/>
+		<conf name="provided" visibility="public" description=""/>
+		<conf name="optional" visibility="public" description=""/>
+		
+		
+		
+		
+		<conf name="sources" visibility="public" description=""/>
+		<conf name="docs" visibility="public" description=""/>
+		<conf name="pom" visibility="public" description=""/>
+		
+	</configurations>
+	<publications>
+		<artifact name="apache-predictionio-core_2.11" type="pom" ext="pom" conf="pom"/>
+		<artifact name="apache-predictionio-core_2.11" type="jar" ext="jar" conf="compile"/>
+		<artifact name="apache-predictionio-core_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>
+		<artifact name="apache-predictionio-core_2.11" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+	</publications>
+	<dependencies>
+		
+		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="compile->default(compile)"/>
+		<dependency org="org.apache.predictionio" name="apache-predictionio-data_2.11" rev="0.12.0-incubating" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.play" name="twirl-api_2.11" rev="1.1.1" conf="compile->default(compile)"/>
+		
+		<dependency org="org.scoverage" name="scalac-scoverage-runtime_2.11" rev="1.1.1" transitive="false" conf="provided->default(compile)"/>
+		<dependency org="org.scoverage" name="scalac-scoverage-plugin_2.11" rev="1.1.1" transitive="false" conf="provided->default(compile)"/>
+		<dependency org="org.postgresql" name="postgresql" rev="9.4-1204-jdbc41" conf="test->default(compile)"/>
+		<dependency org="org.scalikejdbc" name="scalikejdbc_2.11" rev="2.3.5" conf="test->default(compile)"/>
+		<dependency org="com.github.scopt" name="scopt_2.11" rev="3.5.0" conf="compile->default(compile)"/>
+		<dependency org="com.google.code.gson" name="gson" rev="2.5" conf="compile->default(compile)"/>
+		<dependency org="com.twitter" name="chill-bijection_2.11" rev="0.7.2" conf="compile->default(compile)"/>
+		<dependency org="de.javakaffee" name="kryo-serializers" rev="0.37" conf="compile->default(compile)"/>
+		<dependency org="net.jodah" name="typetools" rev="0.3.1" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-core_2.11" rev="2.1.1" conf="provided->default(compile)"/>
+		<dependency org="org.json4s" name="json4s-ext_2.11" rev="3.2.11" conf="compile->default(compile)"/>
+		<dependency org="org.scalaj" name="scalaj-http_2.11" rev="1.1.6" conf="compile->default(compile)"/>
+		<dependency org="org.slf4j" name="slf4j-log4j12" rev="1.7.18" conf="compile->default(compile)"/>
+		<dependency org="org.scalatest" name="scalatest_2.11" rev="2.1.7" conf="test->default(compile)"/>
+		<dependency org="org.specs2" name="specs2_2.11" rev="2.3.13" conf="test->default(compile)"/>
+		<dependency org="org.scalamock" name="scalamock-scalatest-support_2.11" rev="3.5.0" conf="test->default(compile)"/>
+		<dependency org="com.h2database" name="h2" rev="1.4.196" conf="test->default(compile)"/>
+	</dependencies>
+</ivy-module>

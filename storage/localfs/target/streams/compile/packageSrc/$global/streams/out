@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/target/scala-2.11/apache-predictionio-data-localfs_2.11-0.12.0-incubating-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/src/main/scala/org/apache/predictionio/data/storage/localfs/package.scala[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/LocalFSModels.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/src/main/scala/org/apache/predictionio/data/storage/localfs/LocalFSModels.scala[0m
+[0m[[0mdebug[0m] [0m	org/apache/predictionio/data/storage/localfs/StorageClient.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/kennylee/dev/PredictionIO_0.12/storage/localfs/src/main/scala/org/apache/predictionio/data/storage/localfs/StorageClient.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
